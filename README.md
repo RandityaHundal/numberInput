@@ -29,11 +29,3 @@ Through this project, I learned how to:
 3. Run the application. :play_or_pause_button:
 
 Please note that this application was developed using JetBrains Rider 2023.2.3 and may not work as expected in other IDEs or versions.
-
-## Repository Name :file_folder:
-
-Consider naming the repository `code-challenge-console-app`.
-
-## Description :memo:
-
-"A C# console application that demonstrates the use of loops and input validation to control program flow. The user is prompted to enter a number between 5 and 10, and the program continues to prompt until a valid number within the range is entered."
